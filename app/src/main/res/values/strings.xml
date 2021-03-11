@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidNodeApp</string>
+    <string name="file_prov_auth">com.example.r4_fry.androidnodeapp.fileProvider</string>
+    <string name="emptyListWarning">No Results</string>
+    <string name="run_query">run Query</string>
+    <string name="company_name">company name</string>
+    <string name="companies_house">Companies House</string>
+    <string name="sentient_detector">Sentient Detector</string>
+    <string name="please_wait">Please wait</string>
+    <string name="refresh">Refresh</string>
+    <string name="loading">Loading</string>
+</resources>

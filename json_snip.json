@@ -1,0 +1,663 @@
+{
+  "items": [
+    {
+      "address": {
+        "address_line_1": "North Harbour",
+        "locality": "Portsmouth",
+        "postal_code": "PO6 3AU",
+        "premises": "PO BOX 41",
+        "region": "Hampshire"
+      },
+      "address_snippet": "PO BOX 41, North Harbour, Portsmouth, Hampshire, PO6 3AU",
+      "company_number": "01503908",
+      "company_status": "active",
+      "company_type": "ltd",
+      "date_of_creation": "1980-06-25",
+      "description": "01503908 - Incorporated on 25 June 1980",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "links": {
+        "self": "/company/01503908"
+      },
+      "matches": {
+        "snippet": [
+        ],
+        "title": [
+          1,
+          3
+        ]
+      },
+      "snippet": "",
+      "title": "IBM LIMITED"
+    },
+    {
+      "address": {
+        "address_line_1": "North Harbour",
+        "locality": "Portsmouth",
+        "po_box": "PO BOX 41",
+        "postal_code": "PO6 3AU",
+        "premises": "Ibm Limited Partnership"
+      },
+      "address_snippet": "PO BOX 41, Ibm Limited Partnership, North Harbour, Portsmouth, PO6 3AU",
+      "company_number": "LP007929",
+      "company_status": "active",
+      "company_type": "limited-partnership",
+      "date_of_creation": "2001-12-10",
+      "description": "LP007929 - Registered on 10 December 2001",
+      "description_identifier": [
+        "registered-on"
+      ],
+      "kind": "searchresults#company",
+      "links": {
+        "self": "/company/LP007929"
+      },
+      "matches": {
+        "snippet": [
+        ],
+        "title": [
+          1,
+          3
+        ]
+      },
+      "snippet": "",
+      "title": "IBM  LIMITED PARTNERSHIP"
+    },
+    {
+      "address": {
+        "address_line_1": "Wildernesse Avenue",
+        "country": "England",
+        "locality": "Sevenoaks",
+        "postal_code": "TN15 0EA",
+        "premises": "Milton Point"
+      },
+      "address_snippet": "Milton Point, Wildernesse Avenue, Sevenoaks, England, TN15 0EA",
+      "company_number": "10684224",
+      "company_status": "dissolved",
+      "company_type": "ltd",
+      "date_of_cessation": "2018-06-26",
+      "date_of_creation": "2017-03-22",
+      "description": "10684224 - Dissolved on 26 June 2018",
+      "description_identifier": [
+        "dissolved-on"
+      ],
+      "kind": "searchresults#company",
+      "links": {
+        "self": "/company/10684224"
+      },
+      "matches": {
+        "snippet": [
+        ],
+        "title": [
+          1,
+          3
+        ]
+      },
+      "snippet": "",
+      "title": "IBM ENGINEERING  LIMITED"
+    },
+    {
+      "address": {
+        "address_line_1": "Upper Ground",
+        "address_line_2": "South Bank",
+        "locality": "London",
+        "postal_code": "SE1 9PZ",
+        "premises": "76 "
+      },
+      "address_snippet": "76  Upper Ground, South Bank, London, SE1 9PZ",
+      "company_number": "08534301",
+      "company_status": "active",
+      "company_type": "ltd",
+      "date_of_creation": "2013-05-17",
+      "description": "08534301 - Incorporated on 17 May 2013",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "links": {
+        "self": "/company/08534301"
+      },
+      "matches": {
+        "snippet": [
+          1,
+          3
+        ],
+        "title": [
+          1,
+          3
+        ]
+      },
+      "snippet": "IBM GLOBAL FINANCING ASSET MANAGEMENT ",
+      "title": "IBM GLOBAL ASSET MANAGEMENT  LIMITED"
+    },
+    {
+      "address": {
+        "address_line_1": "Upper Ground",
+        "address_line_2": "London",
+        "postal_code": "SE1 9PZ",
+        "premises": "76"
+      },
+      "address_snippet": "76 Upper Ground, London, SE1 9PZ",
+      "company_number": "04345552",
+      "company_status": "active",
+      "company_type": "private-unlimited",
+      "date_of_creation": "2001-12-27",
+      "description": "04345552 - Incorporated on 27 December 2001",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "links": {
+        "self": "/company/04345552"
+      },
+      "matches": {
+        "snippet": [
+        ],
+        "title": [
+          1,
+          3
+        ]
+      },
+      "snippet": "",
+      "title": "IBM GLOBAL FINANCING UK COMPANY"
+    },
+    {
+      "address": {
+        "address_line_1": "Cumberland House",
+        "address_line_2": "80 Scrubs Lane",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "NW10 6RF",
+        "premises": "Suite 206"
+      },
+      "address_snippet": "Suite 206 Cumberland House, 80 Scrubs Lane, London, United Kingdom, NW10 6RF",
+      "company_number": "11057501",
+      "company_status": "active",
+      "company_type": "ltd",
+      "date_of_creation": "2017-11-10",
+      "description": "11057501 - Incorporated on 10 November 2017",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "links": {
+        "self": "/company/11057501"
+      },
+      "matches": {
+        "snippet": [
+          1,
+          3
+        ],
+        "title": [
+          1,
+          5
+        ]
+      },
+      "snippet": "IBM GROUP ",
+      "title": "I.B.M GROUP LTD"
+    },
+    {
+      "address": {
+        "address_line_1": "Iq Kopa",
+        "country": "United Kingdom",
+        "locality": "Preston",
+        "postal_code": "PR1 1LR",
+        "premises": "Flat56, 130 Moor Lane 130 Moor Lane",
+        "region": "Lancashire"
+      },
+      "address_snippet": "Flat56, 130 Moor Lane 130 Moor Lane, Iq Kopa, Preston, Lancashire, United Kingdom, PR1 1LR",
+      "company_number": "11692834",
+      "company_status": "active",
+      "company_type": "ltd",
+      "date_of_creation": "2018-11-22",
+      "description": "11692834 - Incorporated on 22 November 2018",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "links": {
+        "self": "/company/11692834"
+      },
+      "matches": {
+        "snippet": [
+        ],
+        "title": [
+          1,
+          3
+        ]
+      },
+      "snippet": "",
+      "title": "IBM HOMES LTD"
+    },
+    {
+      "address": {
+        "locality": "Portsmouth",
+        "postal_code": "PO6 3AU",
+        "premises": " P.O. Box 41",
+        "region": "North Harbour"
+      },
+      "address_snippet": " P.O. Box 41 Portsmouth, North Harbour, PO6 3AU",
+      "company_number": "BR009994",
+      "company_status": "closed",
+      "company_type": "uk-establishment",
+      "date_of_creation": "1999-01-01",
+      "description": "BR009994 - Closed",
+      "description_identifier": [
+        "closed"
+      ],
+      "kind": "searchresults#company",
+      "links": {
+        "self": "/company/BR009994"
+      },
+      "matches": {
+        "snippet": [
+        ],
+        "title": [
+          1,
+          3
+        ]
+      },
+      "snippet": "",
+      "title": "IBM INTERNATIONAL CENTRE FOR ASSET MANAGEMENT B.V."
+    },
+    {
+      "address": {
+        "address_line_1": "76 Upper Ground",
+        "locality": "London",
+        "postal_code": "SE1 9PZ",
+        "premises": "South Bank"
+      },
+      "address_snippet": "South Bank, 76 Upper Ground, London, SE1 9PZ",
+      "company_number": "04336774",
+      "company_status": "active",
+      "company_type": "ltd",
+      "date_of_creation": "2001-12-10",
+      "description": "04336774 - Incorporated on 10 December 2001",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "links": {
+        "self": "/company/04336774"
+      },
+      "matches": {
+        "snippet": [
+        ],
+        "title": [
+          1,
+          3
+        ]
+      },
+      "snippet": "",
+      "title": "IBM LP LIMITED"
+    },
+    {
+      "address": {
+        "address_line_1": "Upper Ground",
+        "address_line_2": "London",
+        "postal_code": "SE1 9PZ",
+        "premises": "76"
+      },
+      "address_snippet": "76 Upper Ground, London, SE1 9PZ",
+      "company_number": "04223160",
+      "company_status": "active",
+      "company_type": "private-unlimited",
+      "date_of_creation": "2001-05-24",
+      "description": "04223160 - Incorporated on 24 May 2001",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "links": {
+        "self": "/company/04223160"
+      },
+      "matches": {
+        "snippet": [
+        ],
+        "title": [
+          1,
+          3
+        ]
+      },
+      "snippet": "",
+      "title": "IBM NORTH REGION HOLDINGS"
+    },
+    {
+      "address": {
+        "address_line_1": "Old Gloucester Street",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "WC1N 3AX",
+        "premises": "27"
+      },
+      "address_snippet": "27 Old Gloucester Street, London, England, WC1N 3AX",
+      "company_number": "10209475",
+      "company_status": "active",
+      "company_type": "ltd",
+      "date_of_creation": "2016-06-01",
+      "description": "10209475 - Incorporated on  1 June 2016",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "links": {
+        "self": "/company/10209475"
+      },
+      "matches": {
+        "snippet": [
+        ],
+        "title": [
+          1,
+          4
+        ]
+      },
+      "snippet": "",
+      "title": "IBMS DEUTSCHLAND LTD."
+    },
+    {
+      "address": {
+        "address_line_1": "317 Golden Hill Lane",
+        "country": "England",
+        "locality": "Leyland",
+        "postal_code": "PR25 2YJ",
+        "premises": "Oak House",
+        "region": "Lancashire"
+      },
+      "address_snippet": "Oak House, 317 Golden Hill Lane, Leyland, Lancashire, England, PR25 2YJ",
+      "company_number": "07557918",
+      "company_status": "dissolved",
+      "company_type": "ltd",
+      "date_of_cessation": "2018-11-27",
+      "date_of_creation": "2011-03-09",
+      "description": "07557918 - Dissolved on 27 November 2018",
+      "description_identifier": [
+        "dissolved-on"
+      ],
+      "kind": "searchresults#company",
+      "links": {
+        "self": "/company/07557918"
+      },
+      "matches": {
+        "snippet": [
+        ],
+        "title": [
+          1,
+          3
+        ]
+      },
+      "snippet": "",
+      "title": "IBM SECURITY LIMITED"
+    },
+    {
+      "address": {
+        "address_line_1": "West Gate",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "W5 1YY",
+        "premises": "Flat 2"
+      },
+      "address_snippet": "Flat 2 West Gate, London, United Kingdom, W5 1YY",
+      "company_number": "11732662",
+      "company_status": "active",
+      "company_type": "private-limited-guarant-nsc",
+      "date_of_creation": "2018-12-18",
+      "description": "11732662 - Incorporated on 18 December 2018",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "links": {
+        "self": "/company/11732662"
+      },
+      "matches": {
+        "snippet": [
+        ],
+        "title": [
+          1,
+          3
+        ]
+      },
+      "snippet": "",
+      "title": "IBM SERVICES LTD"
+    },
+    {
+      "address": {
+        "address_line_1": "Upper Ground",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "SE1 9PZ",
+        "premises": "76"
+      },
+      "address_snippet": "76 Upper Ground, London, United Kingdom, SE1 9PZ",
+      "company_number": "09360752",
+      "company_status": "active",
+      "company_type": "ltd",
+      "date_of_creation": "2014-12-18",
+      "description": "09360752 - Incorporated on 18 December 2014",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "links": {
+        "self": "/company/09360752"
+      },
+      "matches": {
+        "snippet": [
+        ],
+        "title": [
+          1,
+          3
+        ]
+      },
+      "snippet": "",
+      "title": "IBM SERVICES CENTRE UK LIMITED"
+    },
+    {
+      "address": {
+        "address_line_1": "Byford Court Crockatt Road",
+        "address_line_2": "Hadleigh",
+        "country": "England",
+        "locality": "Ipswich",
+        "postal_code": "IP7 6RD",
+        "premises": "9"
+      },
+      "address_snippet": "9 Byford Court Crockatt Road, Hadleigh, Ipswich, England, IP7 6RD",
+      "company_number": "10507507",
+      "company_status": "active",
+      "company_type": "ltd",
+      "date_of_creation": "2016-12-02",
+      "description": "10507507 - Incorporated on  2 December 2016",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "links": {
+        "self": "/company/10507507"
+      },
+      "matches": {
+        "snippet": [
+        ],
+        "title": [
+          1,
+          4
+        ]
+      },
+      "snippet": "",
+      "title": "IBMS GROUP LIMITED"
+    },
+    {
+      "address": {
+        "address_line_1": "43 Greek Street",
+        "country": "United Kingdom",
+        "locality": "Stockport",
+        "postal_code": "SK3 8AX",
+        "premises": "Mottram House",
+        "region": "Cheshire"
+      },
+      "address_snippet": "Mottram House, 43 Greek Street, Stockport, Cheshire, United Kingdom, SK3 8AX",
+      "company_number": "09357501",
+      "company_status": "active",
+      "company_type": "ltd",
+      "date_of_creation": "2014-12-16",
+      "description": "09357501 - Incorporated on 16 December 2014",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "links": {
+        "self": "/company/09357501"
+      },
+      "matches": {
+        "snippet": [
+        ],
+        "title": [
+          1,
+          5
+        ]
+      },
+      "snippet": "",
+      "title": "I.B.M TRADING LTD"
+    },
+    {
+      "address": {
+        "address_line_1": "North Harbour",
+        "country": "United Kingdom",
+        "locality": "Portsmouth",
+        "postal_code": "PO6 3AU",
+        "premises": "P.O. Box 41",
+        "region": "Hampshire"
+      },
+      "address_snippet": "P.O. Box 41, North Harbour, Portsmouth, Hampshire, United Kingdom, PO6 3AU",
+      "company_number": "10244814",
+      "company_status": "active",
+      "company_type": "private-limited-guarant-nsc",
+      "date_of_creation": "2016-06-22",
+      "description": "10244814 - Incorporated on 22 June 2016",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "links": {
+        "self": "/company/10244814"
+      },
+      "matches": {
+        "snippet": [
+        ],
+        "title": [
+          1,
+          3
+        ]
+      },
+      "snippet": "",
+      "title": "IBM UK HEALTHCARE TRUSTEE LIMITED"
+    },
+    {
+      "address": {
+        "address_line_1": "North Harbour",
+        "locality": "Portsmouth",
+        "postal_code": "PO6 3AU",
+        "premises": "P.O. Box 41",
+        "region": "Hants"
+      },
+      "address_snippet": "P.O. Box 41, North Harbour, Portsmouth, Hants, PO6 3AU",
+      "company_number": "00741598",
+      "company_status": "active",
+      "company_type": "ltd",
+      "date_of_creation": "1962-11-21",
+      "description": "00741598 - Incorporated on 21 November 1962",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "links": {
+        "self": "/company/00741598"
+      },
+      "matches": {
+        "snippet": [
+        ],
+        "title": [
+          1,
+          3
+        ]
+      },
+      "snippet": "",
+      "title": "IBM UNITED KINGDOM LIMITED"
+    },
+    {
+      "address": {
+        "address_line_1": "North Harbour",
+        "locality": "Portsmouth",
+        "postal_code": "PO6 3AU",
+        "premises": "P.O. Box 41",
+        "region": "Hampshire"
+      },
+      "address_snippet": "P.O. Box 41 North Harbour, Portsmouth, Hampshire, PO6 3AU",
+      "company_number": "01197744",
+      "company_status": "active",
+      "company_type": "ltd",
+      "date_of_creation": "1975-01-24",
+      "description": "01197744 - Incorporated on 24 January 1975",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "links": {
+        "self": "/company/01197744"
+      },
+      "matches": {
+        "snippet": [
+          1,
+          3,
+          30,
+          32
+        ],
+        "title": [
+          1,
+          3
+        ]
+      },
+      "snippet": "IBM UNITED KINGDOM FINANCE · IBM UNITED KINGDOM DATA PROCESSING SYSTEMS HOLDINGSLIMITED ",
+      "title": "IBM UNITED KINGDOM ASSET LEASING  LIMITED"
+    },
+    {
+      "address": {
+        "address_line_1": "North Harbour",
+        "locality": "Portsmouth",
+        "postal_code": "PO6 3AU",
+        "premises": "PO BOX 41",
+        "region": "Hampshire"
+      },
+      "address_snippet": "PO BOX 41 North Harbour, Portsmouth, Hampshire, PO6 3AU",
+      "company_number": "01197743",
+      "company_status": "active",
+      "company_type": "ltd",
+      "date_of_creation": "1975-01-24",
+      "description": "01197743 - Incorporated on 24 January 1975",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "links": {
+        "self": "/company/01197743"
+      },
+      "matches": {
+        "snippet": [
+          1,
+          3
+        ],
+        "title": [
+          1,
+          3
+        ]
+      },
+      "snippet": "IBM UNITED KINGDOM DATA PROCESSING SYSTEMS RENTALS ",
+      "title": "IBM UNITED KINGDOM FINANCIAL SERVICES  LIMITED"
+    }
+  ],
+  "items_per_page": 20,
+  "kind": "search#companies",
+  "page_number": 1,
+  "start_index": 0,
+  "total_results": 146
+}
